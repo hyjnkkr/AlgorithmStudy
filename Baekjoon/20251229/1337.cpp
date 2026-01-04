@@ -31,7 +31,7 @@ int main() {
 		ans = max(ans, cnt);
 	}
 
-	cout << 4 - ans;
+	cout << 4 - ans << '\n';
 
 	return 0;
 }
